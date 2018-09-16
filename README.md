@@ -2,7 +2,7 @@
 
 ## Aplicação de loja virtual
 
-Aplicação construíta utilizando o estilo arquitetural de microserviços. Esta aplicação é o resultado incremental do estudo sobre tecnologias relacionadas a microserviços. Sua construção também está sendo efetuada com a intenção de sirva para o aprendizado de outras tecnologias/abordagens mais específicas (cache, front-end, tdd, message queue) atráves de sua evolução.
+Aplicação construíta utilizando o estilo arquitetural de microserviços. Esta aplicação é o resultado incremental do estudo sobre tecnologias relacionadas a microserviços. Sua construção também está sendo efetuada com a intenção de que sirva para o aprendizado de outras tecnologias/abordagens mais específicas (cache, front-end, tdd, message queue) atráves de sua evolução.
 
 ## Microserviços
 
